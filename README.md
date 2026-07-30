@@ -1,5 +1,7 @@
 # Observability Playbook
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Web Reactions](https://api.webreactions.app/badge/github/khasky/observability-playbook.svg)](https://webreactions.app/?utm_source=github&utm_channel=repository&utm_medium=observability-playbook)
+
 Practical guide to production visibility: structured logs, distributed tracing, metrics, SLOs, and alerting that respects humans.
 
 > *If I were instrumenting a production system today, what would I standardize before the first serious incident forced me to?*
