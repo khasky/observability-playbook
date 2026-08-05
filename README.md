@@ -157,6 +157,8 @@ High-volume paths do not need every success recorded:
 
 OpenTelemetry SDK plus auto-instrumentation is the floor, not the finish line. Auto-instrumentation gets you HTTP, database, and client spans for free; manual spans mark the operations your business actually cares about.
 
+OpenTelemetry exists because two competing projects — OpenTracing and OpenCensus — merged in 2019 rather than splitting the ecosystem further. That history explains both of its properties: the reason it is the safe long-term bet (there is no rival standard left to lose to), and the reason its surface has seams, with signals reaching stability years apart rather than together. Check the maturity of the specific signal and language SDK you depend on; "OpenTelemetry is stable" is not a single fact.
+
 ### Span discipline
 
 - span name = the operation: `GET /orders/:id`, `orders.charge`
