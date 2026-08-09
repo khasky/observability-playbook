@@ -1,6 +1,6 @@
 # Observability Playbook
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Web Reactions](https://api.webreactions.app/badge/github/khasky/observability-playbook.svg)](https://webreactions.app/?utm_source=github&utm_channel=repository&utm_medium=observability-playbook)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Emojery](https://api.emojery.app/badge/github/khasky/observability-playbook.svg)](https://emojery.app/react?t=github/khasky/observability-playbook)
 
 Practical guide to production visibility: structured logs, distributed tracing, metrics, SLOs, and alerting that respects humans.
 
